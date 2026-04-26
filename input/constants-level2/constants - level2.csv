@@ -1,0 +1,16 @@
+X,real_value,question,answer_real,Y1,answer1,Y2,answer2,Y3,answer3,C1,answerC1,C2,answerC2
+pi,3.14159,What is pi multiplied by 3?,9.4248,4.5,13.5,500,1500,-10,-30,phi,4.854,the Planck's constant,1.9878×10^(−33)
+e,2.71828,What is e^2?,7.389,9,81,1300,"1,690,000",1.5×10^(−12),2.25×10^(−24),pi,9.8696,the Boltzmann constant,1.904×10^(−46)
+phi,1.61803,What is 5*phi-2?,6.0902,3.6,16,321,1603,-2.2,-13,e,11.5914,the Avogadro's number,3.011×10^24
+the speed of light,"299,792,458 meters per second",How much time (in seconds) does it take light to travel a distance of 100 million kilometers?,333.56 seconds,2.3×10^8 meters per second,434.78 seconds,10 meters per second,10^10 seconds,-4×10^8 meters per second,-250 seconds,the Avogadro's number,1.67×10^(−13) seconds,the elementary charge,6.24×10^29 seconds
+the gravitational constant,6.674×10^(−11) m^3/kg*s^2,What the gravitational constant multiplied by 7?,4.6718×10^(−10),1.1×10^(−10) m^3/kg*s^2,7.7×10^(−10) m^3/kg*s^2,50,350,-525,-3675,the elementary charge,1.1214×10^(−18),pi,21.991
+the Planck's constant,6.626×10^(−34) J*s,"If the frequency of a photon is 4 Hz, what is its energy? Use the formula E=h*ν.",2.65×10^(−33) J,5×10^(−33) J*s,2×10^(−32) J,482,1928 J,-0.2,-0.8 J,the Boltzmann constant,5.52×10^(−23) J,phi,6.472 J
+the elementary charge,1.602×10^(−19) C,"If an electron has a charge of −e, what is the charge of two electrons?",−3.204×10^(−19) C,2.4×10^(−21) C,-4.8×10^(−21) C,3×10^4 C,-6×10^4 C,3×10^50 C,-6×10^50 C,the vacuum electric permittivity,-1.7708×10^(−11) C,pi,-6.28 C
+the Avogadro's number,6.022×10^23 mol^(−1),How many atoms are there in 1 mole of any element?,6.022×10^23,8.23×10^23 mol^(−1),8.23×10^23,75 mol^(−1),75,-1,-1,the gas constant,8.314,e,2.71828
+the Boltzmann constant,1.380649×10^(−23) J/K,Calculate the energy associated with a temperature of 300 K for a single particle using the formula E=kT.,4.14×10^(−21) J,4.56×10^(−24) J/K,1.368×10^(−21) J,80 J/K,"24,000 J",-9.9×10^(-3) J/K,-2.97 J,the vacuum electric permittivity,2.6562×10^(−9) J,pi,942.477 J
+the gas constant,8.314 J/(mol*K),What is the gas constant divided by 2?,4.157,13 J/(mol*K),6.5,3500 J/(mol*K),1750,-400 J/(mol*K),-200,pi,1.5708,the speed of light,"149,896,229"
+the imaginary unit,square root of −1,What is the value of i^3?,-i,square root of −2,-2i,square root of −100,-100i,1,1,phi,4.236,the gas constant,578.603
+the squared root of 2,1.41421356,Calculate the value of squared root of 2 multiplied by 3​. What is it approximately?,4.2426,5,15,31.62,94.86,-2,-6,pi,9.4248,the vacuum electric permittivity,2.6562×10^(−11)
+infinity,infinity has no value,What is the limit of 1/x as x approaches infinity?,0,10^10,10^(-10),100,0.01,-1,-1,the speed of light,3.33×10^(−9),the elementary charge,6.242×10^18
+the vacuum electric permittivity,8.854×10^(−12) F/m,"If you add the value of vacuum electric permittivity to itself, what do you get?",1.7708×10^(−11),9.3×10^(−10) F/m,1.86×10^(−9),35 F/m,70,3×10^12 F/m,6×10^12,the gravitational constant,1.3348×10^(−10),phi,3.236
+zero,0,What is 300 multiplied by zero?,0,-1,-300,100,"30,000",5×10^30,1.5×10^33,the Planck's constant,1.9878×10^(−31),the speed of light,"89,937,737,400"
